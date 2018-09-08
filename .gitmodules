@@ -1,0 +1,9 @@
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest
+[submodule "Beauty"]
+	path = Beauty
+	url = https://github.com/redradist/DragonBeauty.git
+[submodule "Kingdom"]
+	path = Kingdom
+	url = https://github.com/redradist/DragonKingdom
