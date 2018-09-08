@@ -1,5 +1,5 @@
 [submodule "googletest"]
-	path = googletest
+	path = ExternalTools/googletest
 	url = https://github.com/google/googletest
 [submodule "Beauty"]
 	path = Beauty
